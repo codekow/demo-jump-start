@@ -1,0 +1,9 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleNotification
+metadata:
+  name: banner-demo
+spec:
+  backgroundColor: '#9F0000'
+  color: '#FFF'
+  location: BannerTop
+  text: OpenShift AI Workshop - Parasol Insurance
