@@ -3,3 +3,4 @@ kind: Component
 
 resources:
   - link-github.yaml
+  - https://raw.githubusercontent.com/redhat-na-ssa/demo-ai-gitops-catalog/refs/heads/main/components/cluster-configs/console-config/base/link-gh-ssa.yaml
